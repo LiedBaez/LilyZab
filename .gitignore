@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vite
+scripts/_tmp
+
+# Archivos fuente originales — no necesarios en el repo (las versiones
+# optimizadas / renombradas viven en public/img y public/cartas).
+/*.zip
+/*.pdf
+/*.rtf
+/Feliz 18 cumple franyi.txt
+/*.png
+/*.jpg
+/*.jpeg
